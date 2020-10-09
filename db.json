@@ -1,0 +1,44 @@
+{
+  "dramas": [
+    {
+      "id": 1,
+      "title": "It's Okay To Not Be Okay"
+    },
+    {
+      "id": 2,
+      "title": "The King: Eternal Monarch"
+    },
+    {
+      "id": 3,
+      "title": "Crash Landing On You"
+    },
+    {
+      "id": 3,
+      "title": "Memories of the Alhambra"
+    },
+    {
+    "id": 4,
+    "title": "Hotel Del Luna"
+    },
+    {
+    "id": 5,
+    "title": "Her Private Life"
+    },
+    {
+    "id": 6,
+    "title": "Tale of the Nine-Tailed"
+    }
+  ],
+  "viewer-comments": [
+    {
+      "id": 1,
+      "body": "comment one",
+      "dramaId": 2
+    },
+    {
+      "id": 2,
+      "body": "comment two",
+      "dramaId": 2
+    }
+  ]
+}
