@@ -2,42 +2,50 @@
   "dramas": [
     {
       "id": 1,
-      "title": "It's Okay To Not Be Okay"
+      "title": "It's Okay To Not Be Okay",
+      "description":"A caregiver in a psychiatric ward  (played by Kim Soo Hyun of The Producers and My Love From The Star fame), who has tossed all notions of love and romance aside, meets a successful children’s book writer (played by Seo Ye Ji) who suffers from antisocial personality disorder. An unusual romance blooms between them, as they begin to “heal” each other’s emotional and psychological hurts."
+      
     },
     {
       "id": 2,
-      "title": "The King: Eternal Monarch"
+      "title": "The King: Eternal Monarch",
+      "description":"A Korean emperor during the time of constituional monarchy meets a detective in modern-day Korea upon crossing his parallel world. Played by Lee Min Ho, the emperor aims to close the door between the two worlds, while the detective, played by Kim Go Eun, tries to save lives."
     },
     {
       "id": 3,
-      "title": "Crash Landing On You"
+      "title": "Crash Landing On You",
+      "description":"A rich heiress and business owner from South Korea who decided to try out her new product, a paraglide, ended up stranded in North Korea. She has to figure out how to get home while hiding from the authorities. Oh, she falls in love with a military captain so things get a lot more complicated."
     },
     {
     "id": 4,
-    "title": "Hotel Del Luna"
+    "title": "Hotel Del Luna",
+      "description":"A hotelier (played by Yeo Jin Goo) suddenly finds himself recruited to work at a hotel for spirits who are on their way to the afterlife. There, he finds out how he is tied to the hotel."
     },
     {
     "id": 5,
-    "title": "Her Private Life"
+    "title": "Her Private Life",
+      "description":"An art curator for a museum leads a double life: off-duty, she’s the manager of a fan site for a K-pop idol/actor. Can she keep her private life a secret from the museum owner who doesn’t like fangirls and her new boss who seems to suspect she has something to hide?"
     },
     {
     "id": 6,
-    "title": "Tale of the Nine-Tailed"
+    "title": "Tale of the Nine-Tailed",
+    "description":"It is the action fantasy story of a nine-tailed fox (Gumiho) who settled down in the city and of the producer who chases after him. He is the older half brother of Rang. He is nine-tailed fox (Gumiho). She is a broadcasting station producer."  
     },
     {
       "id": 7,
-      "title": "Memories of the Alhambra"
+      "title": "Memories of the Alhambra",
+      "description":"After receiving an email regarding a groundbreaking AR game about medieval battles in Alhambra, Yoo Jin-woo (Hyun Bin), CEO of an investment company that specializes in optical devices, travels to Granada, Spain to meet the creator of the game, Jung Se-joo (Park Chan-yeol)."
     }
   ],
   "viewer-comments": [
     {
       "id": 1,
-      "body": "comment one",
+      "body": "🥰",
       "dramaId": 2
     },
     {
       "id": 2,
-      "body": "comment two",
+      "body": "Awesome drama",
       "dramaId": 2
     }
   ]
